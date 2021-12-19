@@ -1,7 +1,7 @@
 name: Wallet
 description: Configurable token system
-author: Raus
-main: com.raus.wallet.Wallet
+author: Chai
+main: com.chai.wallet.Wallet
 version: 1.0
 api-version: 1.15
 

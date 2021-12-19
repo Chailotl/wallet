@@ -1,4 +1,4 @@
-package com.raus.wallet;
+package com.chai.wallet;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

@@ -1,4 +1,4 @@
-package com.raus.wallet;
+package com.chai.wallet;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -55,7 +55,7 @@ public class MainCommand implements CommandExecutor, TabCompleter
 		{
 			// Send message
 			sender.sendMessage(prefix + ChatColor.GRAY + " Version " + plugin.getDescription().getVersion()
-					+ " by " + ChatColor.RED + "Raus");
+					+ " by " + ChatColor.RED + "Chai");
 			return true;
 		}
 		else if (args[0].equals("reload"))

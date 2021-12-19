@@ -1,4 +1,4 @@
-package com.raus.wallet;
+package com.chai.wallet;
 
 import java.io.File;
 import java.util.ArrayList;
